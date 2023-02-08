@@ -1,26 +1,21 @@
-let data=[
-    {
-      id : 0,
-      title : "안티에이징 연구소 10%적립",
-      content : "AHC/오휘/리엔케이",
-      price : 127500
-      
-    },
-  
-    {
-      id : 1,
-      title : "오휘 NEW 미라클 토닝 출시",
-      content : "런칭특가+사은품+경품",
-      price : 127500
-      
-    },
-  
-    {
-      id : 2,
-      title : "VUNQUE",
-      content : "23 S/S NEW & BEST ITEM",
-      price : 295000
-    }
-  ] 
 
-  export default data;
+[
+  {
+    "id" : 4,
+    "title" : "네번째상품",
+    "content" : "f.......",
+    "price" : 295000
+  },
+  {
+    "id" : 5,
+    "title" : "5번째상품",
+    "content" : "a....",
+    "price" : 295000
+  },
+  {
+    "id" : 6,
+    "title" : "6번째상품",
+    "content" : ".............",
+    "price" : 295000
+  }
+]
